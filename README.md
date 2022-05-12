@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krahlos
 - 👀 I’m interested in calisthenics, coding and coffee
-- 🌱 I’m currently learning about Django and Raspberries
 - 💻 I work as a software developer for driver assistance systems
 - 📫 You can reach me via IG
 
